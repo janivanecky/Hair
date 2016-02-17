@@ -16,6 +16,7 @@
 #define PI 3.14159265f
 //#define CUBE_HAIR
 
+
 SDL_Window *window;
 bool InitWindow()
 {
