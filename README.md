@@ -19,6 +19,8 @@ and [*Petrovic et al.*](http://graphics.pixar.com/library/Hair/paper.pdf).
 * s_damp - basically density of the environment
 * s_wind - strength of the wind
 
+![alt text](https://github.com/janivanecky/Hair/blob/master/Hair/img/animation.gif "In action")
+
 ##Controls
 
 * R - resets the simulation
