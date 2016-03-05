@@ -1,6 +1,6 @@
 #Hair simulator
 
-This is a project for school - hair simulation based on particle systems. It's implemented based on papers by [*Muller et al.*](http://matthias-mueller-fischer.ch/publications/FTLHairFur.pdf) 
+This is a project for school - hair simulation based on particle systems. Implementation is based on papers by [*Muller et al.*](http://matthias-mueller-fischer.ch/publications/FTLHairFur.pdf) 
 and [*Petrovic et al.*](http://graphics.pixar.com/library/Hair/paper.pdf).
 
 ##Modes
